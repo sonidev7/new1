@@ -22,8 +22,8 @@ class PostSchema(BaseModel):
     class Config:
         schema_extra = {
             "example": {
-                "title": "Cats",
-                "description": "All about cats",
+                "title": "Dogs",
+                "description": "All about dogs",
                 "author": "Zhansaya"
             }
     }
